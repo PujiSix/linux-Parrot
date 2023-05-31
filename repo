@@ -1,0 +1,13 @@
+deb https://deb.parrot.sh/parrot lts main contrib non-free
+deb-src https://deb.parrot.sh/parrot lts main contrib non-free
+
+
+//sg repo
+deb http://ftp.sg.debian.org/debian/ buster main contrib non-free
+deb-src http://ftp.sg.debian.org/debian/ buster main contrib non-free
+
+deb http://ftp.sg.debian.org/debian/ buster-updates main contrib non-free
+deb-src http://ftp.sg.debian.org/debian/ buster-updates main contrib non-free
+
+deb http://security.debian.org/ buster/updates main contrib non-free
+deb-src http://security.debian.org/ buster/updates main contrib non-free
